@@ -1,0 +1,36 @@
+.flex-container{
+    border-style: dashed;
+    border-width: auto;
+    
+    width: 40%;
+    height: auto;
+    font-style: italic;
+    margin: auto;
+    border-image: auto;
+    background-color: tomato;
+}
+
+.flex-container1{
+    border: blue;
+    border-style: double;
+    border-width: 5px;
+    width: 25%;
+    background-color: thistle;
+}
+
+.flex-container2{
+    border-style: inset;
+    width: 40%;
+    text-align: center;
+    margin: 20%;
+}
+
+.flex-container3{
+    font-style: italic;
+    text-align: right;
+    border-style: groove;
+    width: 30%;
+    margin: 50%;
+    background-color: teal;
+}
+
